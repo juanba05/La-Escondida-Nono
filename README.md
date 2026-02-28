@@ -1,92 +1,41 @@
-# @'
+﻿# La Escondida Nono - Landing Web
 
-# &nbsp; # La Escondida Nono - Landing Web
+Landing page desarrollada para una propiedad de alquiler turistico en Nono, Cordoba.
+El objetivo fue crear una web clara, visual y orientada a conversion (consultas y reservas), con buen rendimiento y SEO basico.
 
-# 
+## Objetivo del proyecto
 
-# &nbsp; Landing page desarrollada para una propiedad de alquiler turistico en
+- Presentar la propiedad con una identidad visual consistente.
+- Facilitar contacto directo por WhatsApp y reserva por Airbnb.
+- Mejorar visibilidad organica con estructura SEO on-page.
 
-# &nbsp; Nono, Cordoba.
+## Tecnologias
 
-# &nbsp; El objetivo fue crear una web clara, visual y orientada a conversion
+- HTML5
+- CSS3
+- JavaScript (vanilla)
 
-# &nbsp; (consultas y reservas), con buen rendimiento y SEO basico.
+## Funcionalidades implementadas
 
-# 
+- Hero principal con CTA a WhatsApp y Airbnb.
+- Secciones informativas: lugar, comodidades, galeria, actividades, ubicacion.
+- Diseno responsive para mobile y desktop.
+- Metadatos SEO:
+  - `title`, `description`, `keywords`
+  - Open Graph tags
+  - JSON-LD (`LodgingBusiness`)
+- Microanimaciones y transiciones para mejorar experiencia de usuario.
 
-# &nbsp; ## Objetivo del proyecto
+## Resultado
 
-# 
+- Sitio listo para publicacion estatica en GitHub Pages.
+- Estructura simple, mantenible y enfocada en conversion.
 
-# &nbsp; - Presentar la propiedad con una identidad visual consistente.
+## Demo
 
-# &nbsp; - Facilitar contacto directo por WhatsApp y reserva por Airbnb.
+- Repo: https://github.com/juanba05/La-Escondida-Nono
+- Sitio: https://juanba05.github.io/La-Escondida-Nono/
 
-# &nbsp; - Mejorar visibilidad organica con estructura SEO on-page.
+## Autor
 
-# 
-
-# &nbsp; ## Tecnologias
-
-# 
-
-# &nbsp; - HTML5
-
-# &nbsp; - CSS3
-
-# &nbsp; - JavaScript (vanilla)
-
-# 
-
-# &nbsp; ## Funcionalidades implementadas
-
-# 
-
-# &nbsp; - Hero principal con CTA a WhatsApp y Airbnb.
-
-# &nbsp; - Secciones informativas: lugar, comodidades, galeria, actividades,
-
-# &nbsp; ubicacion.
-
-# &nbsp; - Diseño responsive para mobile y desktop.
-
-# &nbsp; - Metadatos SEO:
-
-# &nbsp;   - `title`, `description`, `keywords`
-
-# &nbsp;   - Open Graph tags
-
-# &nbsp;   - JSON-LD (`LodgingBusiness`)
-
-# &nbsp; - Microanimaciones y transiciones para mejorar experiencia de usuario.
-
-# 
-
-# &nbsp; ## Resultado
-
-# 
-
-# &nbsp; - Sitio listo para publicacion estatica en GitHub Pages.
-
-# &nbsp; - Estructura simple, mantenible y enfocada en conversion.
-
-# 
-
-# &nbsp; ## Demo
-
-# 
-
-# &nbsp; - Repo: https://github.com/juanba05/La-Escondida-Nono
-
-# &nbsp; - Sitio: https://juanba05.github.io/La-Escondida-Nono/
-
-# 
-
-# &nbsp; ## Autor
-
-# 
-
-# &nbsp; Juan Bautista Cortes
-
-# &nbsp; '@ | Set-Content -Path .\\README.md -Encoding UTF8
-
+Juan Bautista Cortes
